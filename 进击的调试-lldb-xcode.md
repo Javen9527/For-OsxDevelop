@@ -1,6 +1,6 @@
 ### 多线程调试 ###
 
-1. 代码如下：
+代码如下：
 
     #include <iostream>
     #include <thread>
