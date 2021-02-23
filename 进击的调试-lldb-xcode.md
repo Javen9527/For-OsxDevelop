@@ -5,8 +5,3 @@
 ![image](https://github.com/Javen9527/For-OsxDevelop/blob/main/pic/debug1.png)
 
 
-
-
-
-    #in
-
