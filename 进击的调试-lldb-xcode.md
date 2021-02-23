@@ -2,6 +2,7 @@
 
 代码如下：
 
+’‘’
         #include <iostream>
         #include <thread>
         #include <string>
@@ -58,5 +59,7 @@
             cout << "\n======== Hello debugger start! ========" << endl;
             return 0;
         }
+        
+‘’‘
 
 ![image](https://github.com/Javen9527/For-OsxDevelop/blob/main/pic/debug1.png)
