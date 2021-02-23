@@ -1,1 +1,8 @@
 相关网站：https://brew.sh/index_zh-cn
+
+
+    #include <iostream>
+    using namespace std;
+    
+    int main()
+    {}
