@@ -2,11 +2,11 @@
 
 代码如下：
 
-    #include <iostream>
-    #include <thread>
-    #include <string>
-    #include <mutex>
-    using namespace std;
+        #include <iostream>
+        #include <thread>
+        #include <string>
+        #include <mutex>
+        using namespace std;
 
     mutex mu;
     static int number = 0;
