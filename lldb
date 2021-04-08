@@ -1,0 +1,4 @@
+lldb exefile
+run
+
+bt
